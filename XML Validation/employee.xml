@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <personal>
+      <firstName>Ravi</firstName>
+      <lastName>Ray</lastName>
+      <dateOfBirth>2003-02-10</dateOfBirth>
+      <gender>Male</gender>
+    </personal>
+    <employment>
+      <position> Project Manager</position>
+      <salary>50000</salary>
+    </employment>
+    <contact>
+      <email>ray@gmail.com</email>
+      <phone>9985947584</phone>
+    </contact>
+  </employee>
+  <employee>
+    <personal>
+      <firstName>John</firstName>
+      <lastName>Antony</lastName>
+      <dateOfBirth>2002-04-20</dateOfBirth>
+      <gender>Male</gender>
+    </personal>
+    <employment>
+      <position>Game Developer</position>
+      <salary>40000</salary>
+    </employment>
+    <contact>
+      <email>john@gmail.com</email>
+      <phone>678787712</phone>
+    </contact>
+  </employee>
+  <employee>
+    <personal>
+      <firstName>Karan</firstName>
+      <lastName>Singh</lastName>
+      <dateOfBirth>1999-06-26</dateOfBirth>
+      <gender>Male</gender>
+    </personal>
+    <employment>
+      <position> Developer</position>
+      <salary>45000</salary>
+    </employment>
+    <contact>
+      <email>karan@gmail.com</email>
+      <phone>7869584563</phone>
+    </contact>
+  </employee>
+</employees>
